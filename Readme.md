@@ -12,7 +12,7 @@ The basic structure of directory is:
 -->dashboar_assignment📂<br />
 |<br />
 |->dashboard<br />
-    |->migrations<br />
+    &nbsp;&nbsp;|->migrations<br />
         |->0001_initial.py<br />
         |->0002_alter_datamodel.py<br />
     |->__init__.py
