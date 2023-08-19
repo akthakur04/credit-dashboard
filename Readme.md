@@ -43,7 +43,7 @@ The basic structure of directory is:
 |->manage.py<br />
 |->db.sqlite3<br />
 
-![Page](https://github.com/akthakur04/credit-dashboard/blob/main/static/Img_credit21.jpg)
-![Page1](https://github.com/akthakur04/credit-dashboard/blob/main/static/Img_credit1.jpg)
+![Page](https://github.com/akthakur04/credit-dashboard/blob/main/static/Img_credit1.jpg)
+![Page1](https://github.com/akthakur04/credit-dashboard/blob/main/static/Img_credit21.jpg)
 
 
