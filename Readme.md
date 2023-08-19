@@ -43,6 +43,6 @@ The basic structure of directory is:
 |->manage.py<br />
 |->db.sqlite3<br />
 
-![Project Logo]([https://github.com/yourusername/yourrepository/raw/main/images/logo.png](https://github.com/akthakur04/credit-dashboard/blob/main/static/Img_credit21.jpg)https://github.com/akthakur04/credit-dashboard/blob/main/static/Img_credit21.jpg)
+![Project Logo](https://github.com/akthakur04/credit-dashboard/blob/main/static/Img_credit21.jpg)
 
 
